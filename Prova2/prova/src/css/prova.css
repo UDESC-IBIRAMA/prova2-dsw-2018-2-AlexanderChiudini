@@ -1,0 +1,29 @@
+.div_dir {
+  text-align: center;
+  padding-left: 9px;
+}
+
+.div_center {
+  text-align: center;
+}
+
+.menu {
+  background-color: aqua;
+  color: blueviolet;
+  display: inline-block;
+  width: 17%;
+  border-radius: 10px;
+}
+
+.menu a {
+  color: blueviolet;
+}
+
+.botao {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.requerido {
+  background-color: red;
+}
